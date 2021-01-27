@@ -52,9 +52,12 @@
 				</table>
 			</form:form>
 			
-			<div style="clear; both;">
-				<p><a href="${page.Context.request.contextPath}/customer/list">Back to Customer List</a></p>
-			</div>
+			<div style="clear; both;"></div>
+			
+			<p>
+				<a href="${pageContext.request.contextPath}/customer/list">Back to Customer List</a>
+			</p>
+			
 			
 		</div>
 		
